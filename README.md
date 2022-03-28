@@ -7,7 +7,6 @@
 - 🤔 &nbsp; Siempre en busca de aprender nuevas tecnologías y prácticas para aplicar.
 - 🎓 &nbsp; Terminando la carrera de Analista Programador Computacional en DUOC UC.
 - 💼 &nbsp; Trabajando en una empresa que desarrolla soluciones informáticas y se encarga de su gestión. 
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Actualmente me encuentro aprendiendo sobre ciencia de datos, desarrollo web y patrones de arquitectura.
 
 <h3> 🛠 &nbsp;Tecnologías </h3>
