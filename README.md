@@ -1,17 +1,22 @@
 ### Hello there 👋
-## Actualmente me encuentro trabajando en el desarollo de varios proyectos 
 
-<!--
-**Skiiinnny/Skiiinnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Aditya.
+👨🏻‍💻  About Me
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+🎓   Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+💼   Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+🌱   Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+✍️   Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+🛠  Tech Stack
+💻   Python Java C++ R (Statistics)
+🌐   HTML5 CSS JavaScript Bootstrap Node.js React
+🛢   MySQL MongoDB
+⚙️   Git GitHub Markdown
+🔧   Visual Studio Code RStudio Eclipse
+🖥   Illustrator Photoshop InDesign
 
-Here are some ideas to get you started:
+ 
+🤝🏻  Connect with Me
+Website LinkedIn Instagram Email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From AVS1508
