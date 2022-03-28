@@ -57,4 +57,4 @@
 <a href="mailto:na.sotop@duocuc.cl"><img alt="Email" src="https://img.shields.io/badge/Email-na.sotop@duocuc.cl-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [Skiiinnny](https://github.com/Skiiinnny)
