@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skiiinnny&label=Profile%20views&color=0e75b6&style=flat" alt="skiiinnny" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [YoKanjeo](https://github.com/BIDATA-2022/YoKanjeo)
+- 🔭 Actualmente estoy trabajando en Pentavida
 
-- 🌱 Estoy interesado en aprender **Ciencia de datos e inteligencia artificial**
-
-- 👯 Uno de los proyectos que he desarrollado es [BrokerBi](https://github.com/BIDATA-2022/ProyectoBrokerBI)
+- 🌱 Estoy interesado en aprender **Patrones de diseño y pruebas unitarias**
 
 - 👨‍💻 Todos mis proyectos se pueden encontrar en [https://github.com/Skiiinnny](https://github.com/Skiiinnny)
 
 - 💬 Pregúntame sobre **Desarrollo web**
 
-- 📫 ¿Quieres contactarme? **na.sotop@duocuc.cl**
+- 📫 ¿Quieres contactarme? **nataniel.soto.pulido@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
